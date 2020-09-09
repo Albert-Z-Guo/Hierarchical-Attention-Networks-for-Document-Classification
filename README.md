@@ -1,4 +1,5 @@
 # Hierarchical Attention Networks for Document Classification
+This repository contains a modern implementation of a 2016 [NAACL](https://en.wikipedia.org/wiki/North_American_Chapter_of_the_Association_for_Computational_Linguistics) paper [Hierarchical Attention Networks for Document Classification](https://www.aclweb.org/anthology/N16-1174.pdf).
 
 ### Getting Started
 To install all libraries/dependencies used in this project, run

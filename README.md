@@ -5,7 +5,7 @@ This repository contains a modern implementation of a 2016 [NAACL](https://en.wi
 To install all libraries/dependencies used in this project, run
 ```bash
 brew install graphviz
-pip3 install -r requirement.txt
+pip3 install -r requirements.txt
 ```
 
 For Windows or Linux users, it is recommended to use [Conda](https://docs.conda.io/en/latest/) to install [graphviz](https://graphviz.org/) in order to save model structures to `.png` files.

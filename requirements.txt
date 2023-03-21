@@ -4,5 +4,5 @@ pandas
 pydot
 scikit-learn
 spacy
-tensorflow==2.3.0
+tensorflow==2.9.3
 tqdm
